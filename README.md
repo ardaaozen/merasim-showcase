@@ -1,8 +1,15 @@
-# Merasim — Davetiye Tasarım Atölyesi
+<h1 align="center">Merasim</h1>
 
 <p align="center">
-  <strong>Özel anları, zarif ve paylaşılabilir davetiyelere dönüştüren premium iPhone ve iPad stüdyosu.</strong><br>
-  <em>A premium invitation studio for iPhone and iPad, crafted to turn meaningful moments into elegant, shareable designs.</em>
+  <strong>Özel anları zarif, hareketli ve paylaşılabilir davetiyelere dönüştüren tasarım stüdyosu.</strong>
+</p>
+
+<p align="center">
+  <img alt="SwiftUI" src="https://img.shields.io/badge/UI-SwiftUI-F05138?logo=swift&logoColor=white">
+  <img alt="Platforms" src="https://img.shields.io/badge/Platform-iPhone%20%26%20iPad-111111?logo=apple&logoColor=white">
+  <img alt="Languages" src="https://img.shields.io/badge/Languages-12-7C5CFC">
+  <img alt="Processing" src="https://img.shields.io/badge/Image%20Processing-On%20Device-2F855A">
+  <img alt="Status" src="https://img.shields.io/badge/Status-App%20Store%20Review-D89B36">
 </p>
 
 <p align="center">
@@ -11,43 +18,35 @@
   <img src="assets/tr/pro.png" width="30%" alt="Merasim Pro">
 </p>
 
-## Türkçe
+## Ürün özeti
 
-Merasim; düğün, nişan, doğum günü, bebek kutlaması, mezuniyet, mekân açılışı ve kurumsal etkinlikler için davetiye hazırlamayı kolaylaştıran, yerel SwiftUI ile geliştirilmiş premium bir tasarım uygulamasıdır.
+| | |
+| --- | --- |
+| **Amaç** | Davetiye hazırlama sürecini seçimden dışa aktarmaya kadar tek akışta sadeleştirmek. |
+| **Kapsam** | Düğün, nişan, doğum günü, bebek kutlaması, mezuniyet ve kurumsal etkinlikler. |
+| **Tasarım sistemi** | 350 arka plan, 200 çerçeveli şablon, 600 tipografi stili ve 24 renk paleti. |
+| **Çıktılar** | PNG, JPEG, şeffaf PNG ve baskıya hazır PDF. |
 
-### Öne çıkanlar
+## Öne çıkanlar
 
-- 350 özgün ve yazısız davetiye arka planı
-- Kullanıcının kendi fotoğrafını ekleyebildiği 200 çerçeveli şablon
-- 600 tipografi stili ve 24 seçkin renk paleti
+- Katman, hizalama, tipografi, renk, efekt ve hareket kontrolleri
 - 120 hareketli davetiye sahnesi
-- Metin, hizalama, katman, efekt ve hareket kontrolleri
-- Cihaz üzerinde fotoğraf arka planını kaldırma ve şeffaf PNG oluşturma
-- PNG, JPEG ve baskıya hazır PDF dışa aktarma
-- iPhone ve iPad desteği
-- Türkçe dahil 12 dil
-- İsteğe bağlı özel bulut yedekleme ve satın alma geri yükleme
+- Cihaz üzerinde fotoğraf arka planı kaldırma
+- Kişisel fotoğraflar için çerçeveli şablonlar
+- iPhone ve iPad’e uyarlanmış SwiftUI deneyimi
+- 12 dilde yerelleştirilmiş arayüz ve önizleme metinleri
+- İsteğe bağlı bulut yedekleme ve satın alma geri yükleme
 
-Merasim şu anda App Store inceleme sürecindedir.
+## Tasarım ilkeleri
+
+- **Sade başlangıç:** Güçlü araçlar, kalabalık görünmeyen bir editör içinde sunulur.
+- **Sessiz premium:** Tipografi, boşluk, renk ve hareket içeriğin önüne geçmez.
+- **Yerelleştirilmiş deneyim:** Arayüz ve örnek metinler seçilen dile uyarlanır.
+- **Cihaz odaklı işleme:** Fotoğraf ayırma işlemi cihaz üzerinde tamamlanır.
 
 ## English
 
-Merasim is a premium, native SwiftUI invitation design studio for weddings, engagements, birthdays, baby celebrations, graduations, venue openings, and business events.
-
-### Highlights
-
-- 350 original text-free invitation backgrounds
-- 200 framed templates for personal photos
-- 600 typography styles and 24 curated colour palettes
-- 120 animated invitation scenes
-- Fine controls for text, alignment, layers, effects, and motion
-- On-device subject isolation with transparent PNG output
-- PNG, JPEG, and print-ready PDF export
-- Native iPhone and iPad support
-- 12 supported languages, including Turkish
-- Optional private cloud backup and purchase restoration
-
-Merasim is currently in App Store review.
+Merasim is a native SwiftUI invitation studio for iPhone and iPad. It combines hundreds of backgrounds, framed photo templates, typography styles, colour palettes and animated scenes with on-device subject isolation and print-ready export.
 
 <p align="center">
   <img src="assets/en/home.png" width="30%" alt="Merasim home screen">
@@ -55,11 +54,4 @@ Merasim is currently in App Store review.
   <img src="assets/en/export.png" width="30%" alt="Merasim export experience">
 </p>
 
-## Product principles · Ürün yaklaşımı
-
-- **Simple by default · Varsayılan olarak sade:** Powerful editing without a crowded interface.
-- **Premium but quiet · Gösterişsiz premium:** Typography, spacing, colour, and motion support the invitation instead of competing with it.
-- **Local by design · Yerelleştirme odaklı:** Interface and preview copy adapt to the selected language.
-- **Private by design · Gizlilik odaklı:** Photo isolation runs on device; account and cloud backup remain optional.
-
-> This repository is a public product showcase. The application source code is maintained in a private repository. All rights reserved.
+© 2026 Merasim. All rights reserved.
