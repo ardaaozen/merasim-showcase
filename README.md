@@ -1,3 +1,5 @@
+![Merasim](assets/merasim-hero.png)
+
 <h1 align="center">Merasim</h1>
 
 <p align="center">
