@@ -25,28 +25,32 @@
 | **Çıktılar** | PNG, JPEG ve PDF; Android'de ayrıca hareketli MP4 dışa aktarımı. |
 | **Yerelleştirme** | iOS'ta 12 dil, Android'de 39 yerel ayar. |
 
-## iPhone ve iPad
+## Platformlar
 
-SwiftUI arayüzü, davetiye tasarımını iPhone ve iPad ekranlarına uyarlar. Şablonlar, katmanlı editör ve dışa aktarma akışı aynı tasarım dilini izler.
+iPhone ve iPad sürümü SwiftUI, Android sürümü Kotlin ile hazırlanmıştır. Şablon galerisi, katmanlı davetiye editörü, cihaz üzerinde fotoğraf arka planı kaldırma, taslaklar ve paylaşılabilir çıktılar sunulur. İki sürüm aynı Merasim tasarım kataloğunu temel alır. Android, Google Play kapalı test sürecindedir.
 
-<p align="center">
-  <img src="assets/tr/home.png" width="30%" alt="iOS ana ekranı">
-  <img src="assets/tr/editor.png" width="30%" alt="iOS davetiye editörü">
-  <img src="assets/tr/pro.png" width="30%" alt="iOS Pro ekranı">
-</p>
-
-## Android
-
-Android sürümü Kotlin ile hazırlanmıştır. Şablon galerisi, katmanlı davetiye editörü, cihaz üzerinde fotoğraf arka planı kaldırma, taslaklar ve paylaşılabilir çıktılar içerir. Google Play kapalı test sürecindedir.
+## Mockup
 
 <p align="center">
-  <img src="assets/android/tr/01.png" width="23%" alt="Android ana ekranı ve davetiye stüdyosu">
-  <img src="assets/android/tr/02.png" width="23%" alt="Android şablon galerisi">
-  <img src="assets/android/tr/03.png" width="23%" alt="Android davetiye editörü">
-  <img src="assets/android/tr/04.png" width="23%" alt="Android dışa aktarma ekranı">
+  <img src="assets/android/tr/01.png" width="23%" alt="Merasim ana ekranı ve davetiye stüdyosu">
+  <img src="assets/android/tr/02.png" width="23%" alt="Merasim şablon galerisi">
+  <img src="assets/android/tr/03.png" width="23%" alt="Merasim davetiye editörü">
+  <img src="assets/android/tr/04.png" width="23%" alt="Merasim dışa aktarma ekranı">
 </p>
 
-Android ve iOS aynı Merasim tasarım kataloğunu temel alır. Platforma özgü çizim ve animasyon ayrıntıları cihazlarda farklı görünebilir.
+<details>
+<summary>English mockups</summary>
+
+<p align="center">
+  <img src="assets/android/en/01.png" width="23%" alt="Merasim home screen">
+  <img src="assets/android/en/02.png" width="23%" alt="Merasim template gallery">
+  <img src="assets/android/en/03.png" width="23%" alt="Merasim editor">
+  <img src="assets/android/en/04.png" width="23%" alt="Merasim export screen">
+</p>
+
+</details>
+
+Platforma özgü çizim ve animasyon ayrıntıları cihazlarda farklı görünebilir.
 
 ## Tasarım ilkeleri
 
@@ -58,22 +62,5 @@ Android ve iOS aynı Merasim tasarım kataloğunu temel alır. Platforma özgü 
 ## English
 
 Merasim is a native invitation design studio for iPhone, iPad and Android. It brings together backgrounds, framed photo templates, typography, colour palettes and animated scenes with layered editing, on-device background removal and shareable exports. The Android interface supports 39 locales and is in Google Play closed testing.
-
-### iOS
-
-<p align="center">
-  <img src="assets/en/home.png" width="30%" alt="Merasim iOS home screen">
-  <img src="assets/en/editor.png" width="30%" alt="Merasim iOS editor">
-  <img src="assets/en/export.png" width="30%" alt="Merasim iOS export screen">
-</p>
-
-### Android
-
-<p align="center">
-  <img src="assets/android/en/01.png" width="23%" alt="Merasim Android home screen">
-  <img src="assets/android/en/02.png" width="23%" alt="Merasim Android template gallery">
-  <img src="assets/android/en/03.png" width="23%" alt="Merasim Android editor">
-  <img src="assets/android/en/04.png" width="23%" alt="Merasim Android export screen">
-</p>
 
 © 2026 Merasim. All rights reserved.
