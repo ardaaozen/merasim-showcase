@@ -1,4 +1,6 @@
-![Merasim](assets/merasim-hero.png)
+![Merasim](assets/premium-cover.svg)
+
+<p align="center"><a href="https://apps.apple.com/app/id6805903716"><img src="https://raw.githubusercontent.com/ardaaozen/ardaaozen/01c1593/assets/badges/app-store-tr.png" alt="App Store'dan indir" height="54"></a></p>
 
 <h1 align="center">Merasim</h1>
 
